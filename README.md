@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hi there! I'm a MERN stack developer with a strong passion for JavaScript and automation. While I have a basic understanding of Java, Python, and machine learning, I find myself most drawn to the versatility of JavaScript and its many use cases.
 
 In my free time, I love to experiment with building bots and automating tasks. My go-to frameworks for these projects are Puppeteer and Cheerio. As I continue to develop my skills, I'm excited to explore how these tools can be used to create more complex and sophisticated bots.
@@ -20,4 +19,4 @@ Here are some ideas to get you started:
 -📫 How to reach me: You can reach me via email at ramkr0072@gmail.com.
 -😄 Pronouns: He/Him.
 -⚡ Fun fact: There's nothing fun in life.
--->
+
