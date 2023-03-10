@@ -2,8 +2,6 @@
 
 Hi there! I'm a MERN stack developer with a strong passion for JavaScript and automation. While I have a basic understanding of Java, Python, and machine learning, I find myself most drawn to the versatility of JavaScript and its many use cases.
 
-In my free time, I love to experiment with building bots and automating tasks. My go-to frameworks for these projects are Puppeteer and Cheerio. As I continue to develop my skills, I'm excited to explore how these tools can be used to create more complex and sophisticated bots.
-
 Currently, I'm focused on learning React and Node.js to build robust and dynamic web applications. I'm always eager to collaborate on open-source projects and contribute to the wider developer community.
 
 Let's connect and see how we can learn from each other!
