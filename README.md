@@ -11,12 +11,12 @@ Let's connect and see how we can learn from each other!
 
 Here are some ideas to get you started:
 
--🔭 I’m currently working on developing my skills in MERN stack development.
--🌱 I’m currently learning about various MERN stack technologies such as MongoDB, Express.js, React, and Node.js, as well as JavaScript and web development concepts.
--👯 I’m looking to collaborate on projects related to web development using the MERN stack, particularly those that focus on building scalable and user-friendly web -applications.
--🤔 I’m looking for help with finding resources to improve my understanding of MERN stack best practices and advanced topics such as authentication and security.
--💬 Ask me about anything related to MERN stack development or web development in general, and I'll do my best to provide an informative answer!
--📫 How to reach me: You can reach me via email at ramkr0072@gmail.com.
--😄 Pronouns: He/Him.
--⚡ Fun fact: There's nothing fun in life.
+- 🔭 I’m currently working on developing my skills in MERN stack development.
+- 🌱 I’m currently learning about various MERN stack technologies such as MongoDB, Express.js, React, and Node.js, as well as JavaScript and web development concepts.
+- 👯 I’m looking to collaborate on projects related to web development using the MERN stack, particularly those that focus on building scalable and user-friendly web -applications.
+- 🤔 I’m looking for help with finding resources to improve my understanding of MERN stack best practices and advanced topics such as authentication and security.
+- 💬 Ask me about anything related to MERN stack development or web development in general, and I'll do my best to provide an informative answer!
+- 📫 How to reach me: You can reach me via email at ramkr0072@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: There's nothing fun in life.
 
